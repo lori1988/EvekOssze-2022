@@ -1,0 +1,72 @@
+C:\c#Megold\EvekOssze\EvekOssze\bin\Debug\EvekOssze.exe
+C:\c#Megold\EvekOssze\EvekOssze\bin\Debug\EvekOssze.pdb
+C:\c#Megold\EvekOssze\EvekOssze\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\c#Megold\EvekOssze\EvekOssze\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\c#Megold\EvekOssze\EvekOssze\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\c#Megold\EvekOssze\EvekOssze\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\c#Megold\EvekOssze\EvekOssze\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\c#Megold\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.exe
+C:\c#Megold\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.pdb
+C:\Users\Lóri-Tünde\Desktop\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.exe
+C:\Users\Lóri-Tünde\Desktop\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.pdb
+C:\Users\Lóri-Tünde\Desktop\EvekOssze\EvekOssze\bin\Debug\EvekOssze.exe
+C:\Users\Lóri-Tünde\Desktop\EvekOssze\EvekOssze\bin\Debug\EvekOssze.pdb
+C:\Users\Lóri-Tünde\Desktop\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.csprojResolveAssemblyReference.cache
+C:\Users\Lóri-Tünde\Desktop\EvekOssze\EvekOssze\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Lóri-Tünde\Desktop\EvekOssze\EvekOssze\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lóri-Tünde\Desktop\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.csproj.GenerateResource.Cache
+C:\Users\Lóri-Tünde\Desktop\EvekOssze\EvekOssze\bin\Debug\EvekOssze.exe.manifest
+C:\Users\Lóri-Tünde\Desktop\EvekOssze\EvekOssze\bin\Debug\EvekOssze.application
+C:\Users\Lóri-Tünde\Desktop\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.exe.manifest
+C:\Users\Lóri-Tünde\Desktop\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.application
+D:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.exe
+D:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.pdb
+D:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.csprojResolveAssemblyReference.cache
+D:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.csproj.GenerateResource.Cache
+D:\programozás\EvekOssze\EvekOssze\bin\Debug\EvekOssze.exe.manifest
+D:\programozás\EvekOssze\EvekOssze\bin\Debug\EvekOssze.application
+D:\programozás\EvekOssze\EvekOssze\bin\Debug\EvekOssze.exe
+D:\programozás\EvekOssze\EvekOssze\bin\Debug\EvekOssze.pdb
+D:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.exe.manifest
+D:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.application
+E:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.exe
+E:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.pdb
+E:\programozás\EvekOssze\EvekOssze\bin\Debug\EvekOssze.exe.manifest
+E:\programozás\EvekOssze\EvekOssze\bin\Debug\EvekOssze.application
+E:\programozás\EvekOssze\EvekOssze\bin\Debug\EvekOssze.exe
+E:\programozás\EvekOssze\EvekOssze\bin\Debug\EvekOssze.pdb
+E:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.csprojResolveAssemblyReference.cache
+E:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.csproj.GenerateResource.Cache
+E:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.exe.manifest
+E:\programozás\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.application
+D:\Lóri\programozás\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.exe
+D:\Lóri\programozás\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.pdb
+C:\Users\djrcz\OneDrive\C#\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.exe
+C:\Users\djrcz\OneDrive\C#\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.pdb
+C:\Users\djrcz\OneDrive\C#\EvekOssze\EvekOssze\bin\Debug\EvekOssze.exe.manifest
+C:\Users\djrcz\OneDrive\C#\EvekOssze\EvekOssze\bin\Debug\EvekOssze.application
+C:\Users\djrcz\OneDrive\C#\EvekOssze\EvekOssze\bin\Debug\EvekOssze.exe
+C:\Users\djrcz\OneDrive\C#\EvekOssze\EvekOssze\bin\Debug\EvekOssze.pdb
+C:\Users\djrcz\OneDrive\C#\EvekOssze\EvekOssze\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\djrcz\OneDrive\C#\EvekOssze\EvekOssze\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\djrcz\OneDrive\C#\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.csproj.GenerateResource.Cache
+C:\Users\djrcz\OneDrive\C#\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.exe.manifest
+C:\Users\djrcz\OneDrive\C#\EvekOssze\EvekOssze\obj\x86\Debug\EvekOssze.application
+C:\Users\djrcz\OneDrive\C#\EvekOssze\EvekOssze\bin\Debug\EvekOssze.exe.CodeAnalysisLog.xml
+C:\Users\djrcz\OneDrive\C#\EvekOssze\EvekOssze\bin\Debug\EvekOssze.exe.lastcodeanalysissucceeded
+C:\EvekOssze 2022\EvekOssze\obj\x86\Debug\EvekOssze.exe
+C:\EvekOssze 2022\EvekOssze\obj\x86\Debug\EvekOssze.pdb
+C:\EvekOssze 2022\EvekOssze\bin\Debug\EvekOssze.exe.manifest
+C:\EvekOssze 2022\EvekOssze\bin\Debug\EvekOssze.application
+C:\EvekOssze 2022\EvekOssze\bin\Debug\EvekOssze.exe
+C:\EvekOssze 2022\EvekOssze\bin\Debug\EvekOssze.pdb
+C:\EvekOssze 2022\EvekOssze\obj\x86\Debug\EvekOssze.csprojResolveAssemblyReference.cache
+C:\EvekOssze 2022\EvekOssze\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\EvekOssze 2022\EvekOssze\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\EvekOssze 2022\EvekOssze\obj\x86\Debug\EvekOssze.csproj.GenerateResource.Cache
+C:\EvekOssze 2022\EvekOssze\obj\x86\Debug\EvekOssze.exe.manifest
+C:\EvekOssze 2022\EvekOssze\obj\x86\Debug\EvekOssze.application
